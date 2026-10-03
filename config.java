@@ -1,7 +1,7 @@
 package bank_management_system;
 
-public class change {
+public class config {
     public static void main(String[] args) {
-        System.out.println("Just for practice 1 made changes");
+        System.out.println("Config 4");
     }
 }
